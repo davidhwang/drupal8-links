@@ -1,4 +1,4 @@
-##Drupal 8 links & resources 
+##Drupal 8 links & resources
   Feel free to fork & contribute :)
 
 + Official docs
@@ -10,6 +10,7 @@
     + [Change records for Drupal core](https://drupal.org/list-changes)
     + [What Drupal 8 API changes are still outstanding](https://groups.drupal.org/node/313408)
     + [D8DX: Improving the D8 developer experience](https://drupal.org/community-initiatives/drupal-core/d8dx)
+    + [Drupal 8 is Coming Soon!](https://drupal.org/drupal-8.0)
 + PHP Docs
     + [Classes and Objects](http://php.net/manual/en/language.oop5.php)
 + Code Examples
@@ -19,7 +20,7 @@
     + [Step-by-step: Converting modules from Drupal 7 to Drupal 8](http://webchick.net/upgrade-modules-d8)
     + [A practical example for converting a Drupal 7 module to work with Drupal 8](http://www.pixelite.co.nz/article/practical-example-converting-drupal-7-module-work-drupal-8)
     + [Theming in Drupal 8 - Conversion of themes to Twig](http://www.undpaul.de/blog/2013/07/04/theming-drupal-8-conversion-themes-twig)
-    + [Twigify converts Drupal 7 phpTemplate themes into Drupal 8 Twig themes](https://github.com/ElephantVentures/public-twigify)    
+    + [Twigify converts Drupal 7 phpTemplate themes into Drupal 8 Twig themes](https://github.com/ElephantVentures/public-twigify)
     + [Drupal 8 Field API series part 1: field formatters](http://realize.be/drupal-8-field-api-series-part-1-field-formatters)
     + [Routing Example in Drupal 8](https://github.com/nathanjo/example_d8)
     + [Controlling Access to Drupal 8 Routes with Access Checks](http://previousnext.com.au/blog/controlling-access-drupal-8-routes-access-checks)
@@ -35,8 +36,14 @@
     + [Connect Drupal 8 RESTful Service with Guzzle PHP Web Service Client](http://eureka.ykyuen.info/2013/09/03/connect-drupal-8-restful-service-with-guzzle-php-web-service-client-1/)
     + [Drupal 8 – Login in Guzzle Web Service Client](http://eureka.ykyuen.info/2013/09/04/drupal-8-login-in-guzzle-web-service-client/)
     + [First Approach to Drupal 8](http://drewpull.drupalgardens.com/blog/first-approach-drupal-8)
+    + [Forms & Database in Drupal 8](http://drewpull.drupalgardens.com/blog/forms-database-drupal-8)
+    + [Drupal 8 Twig template engine](http://drewpull.drupalgardens.com/blog/drupal-8-twig-template-engine)
     + [Routing with Drupal 8](http://slid.es/saschagrossenbacher/drupal-8-routing)
     + [Drupal 8 module development #3 - adding a settings page](hhttp://www.enginx.com/content/drupal-8-module-development-3-adding-settings-page)
+    + [Drupal 8 Example module: block, menu, form, settings, ...](https://github.com/nyl-auster/D8-foomodule)
+    + [Upgrading the Search API to D8: Creating an entity type](http://drunkenmonkey.at/blog/search-api-d8-update-part-1)
+    + [Upgrading the Search API to D8: Configuration and schema](http://drunkenmonkey.at/blog/search-api-d8-update-part-2)
+    + [Drupal 8 Hello World module with multilingual support](http://drupal.stackexchange.com/questions/87922/add-multilingual-support-to-drupal-8-hello-world-module/87923#87923)
 + Blog posts
     + [Learn Drupal 8 now by helping to make it more unified and user/developer friendly](http://hojtsy.hu/blog/2013-feb-07/learn-drupal-8-now-helping-make-it-more-unified-and-userdeveloper-friendly)
     + [Drupal 8 and Symfony in Layman's Terms](http://www.duoconsulting.com/blog/drupal-8-and-symfony-laymans-terms)
@@ -78,7 +85,20 @@
     + [Drupal 8: contrib roads, take me home](http://flink.com.au/ramblings/drupal8-contrib-roads-take-me-home)
     + [Drupal 8 is Coming](http://pingv.com/blog/drupal-8-coming)
     + [Drupal 8 might be useful](http://www.codeenigma.com/en/blog/drupal-8-might-be-useful)
+    + [Drupal 8 how to create an administration form](http://webwash.net/tutorials/how-create-administration-form-drupal-8)
+    + [What’s expected in Drupal 8?](http://www.anubavam.com/blogs/what%E2%80%99s-expected-drupal-8)
+    + [Understanding Drupal 8, part 1: the general structure of the framework](http://cipix.nl/understanding-drupal-8-part-1-general-structure-framework)
+    + [Understanding Drupal 8, part 2: The Service Container](http://cipix.nl/understanding-drupal-8-part-2-service-container)
+    + [Why you should be excited about Drupal 8](https://www.acquia.com/blog/why-you-should-be-excited-about-drupal-8)
+    + [Battleplan for Search & Solr in Drupal 8](https://www.acquia.com/blog/battleplan-search-solr-drupal-8)
+    + [Drupal 8 Ready: What's new for Developers?](http://previousnext.com.au/blog/drupal-8-ready-whats-new-developers)
+    + [The Fall of PEAR and the Rise of Composer](http://benramsey.com/blog/2013/11/the-fall-of-pear-and-the-rise-of-composer/)
+    + [what's new in Drupal 8 and how you can contribute](http://beautiful7mind.wordpress.com/2013/02/11/whats-new-in-drupal-8-and-how-you-can-contribute/)
+    + [Converting 7.x drupal module to 8.x](http://beautiful7mind.wordpress.com/2013/03/14/converting-7-x-drupal-module-to-8-x/)
+    + [D8FTW: Breadcrumbs That Work](http://palantir.net/blog/d8ftw-breadcrumbs-work)
+    + [D8FTW: Hacking Core Without Killing Kittens](http://palantir.net/blog/d8ftw-hacking-core-without-killing-kittens)
 + Presentations
+    + [Drupal 8 Configuration system for coders and site builders](http://drupalcampcork.org/sites/drupal_camp_cork/files/slides/Drupal_8_CMI.pdf)
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
     + [REST and Serialization in Drupal 8](http://linclark.github.io/d8-rest-slides/)
@@ -99,7 +119,12 @@
     + [Drupal 8: Site install, module installation, directory layout](http://www.youtube.com/watch?v=k9G2IWGgWjY)
     + [Drupal 8: Creating a Blog & Configuration API](http://www.youtube.com/watch?v=rhzw59RFzDA)
     + [Portando un módulo a Drupal 8 (Spanish)](https://vimeo.com/74011659)
+    + [How I Learned to Stop Worrying and Love Drupal 8](https://www.drupalcampatlanta.com/session/how-i-learned-stop-worrying-and-love-drupal-8)
+    + [Create a Symfony Application from a Drupal Perspective](https://www.youtube.com/watch?v=v-6RCEJFINE)
++ Podcasts
+    + [REST in Drupal 8](http://www.lullabot.com/blog/podcasts/drupalizeme-podcast/36-rest-drupal-8)
 + Virtual Machines & Stacks
+    + [Waiting for Drupal 8? Drupal 8 Dev already available in BitNami!](http://blog.bitnami.com/2013/09/waiting-for-drupal-8-drupal-8-dev.html)
     + [Get started quickly with D8 with this nice vagrant box.](https://github.com/fabsor/vagrantd8)
     + [Building Really Fast Websites with Drupal 8](https://www.youtube.com/watch?v=lKuyGFOhWxU)
 + Books
@@ -108,3 +133,5 @@
 + Sites
     + [Drupalism: Guide to transition from Drupal 7 to Drupal 8](http://www.drupalism.com/)
     + [#D8CX Drupal 8 Contrib Experience](http://d8cx.org/)
++ Tools
+    + [Scaffolding tool for Drupal 8 based on Symfony Console component.](https://github.com/hechoendrupal/DrupalAppConsole)
